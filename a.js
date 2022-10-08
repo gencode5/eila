@@ -1,6 +1,4 @@
-btoa("text");
-
-atob("aHR0cHM6Ly9ob2xhLTQ0MC5ibG9nc3BvdC5jb20v").includes(location.host)
+"hola-440.blogspot.com".includes(location.host)
   ? null
   : ()=>{
     (document.body.innerHTML = `<h1 style='color:red'>عذرا أنت تستخدم نسخة غير مرخصة</h1>
