@@ -9,4 +9,4 @@ atob("aHR0cHM6Ly9ob2xhLTQ0MC5ibG9nc3BvdC5jb20v").includes(location.host)
 `);
 let vali = true;
 document.body.style =
-  "width: 100% !important; margin: 0 !important; padding: 3% !important; display: flex !important; flex-direction: column !important; gap: 15px !important;text-align:center!important";
+  " margin: 0 !important; padding: 3% !important; display: flex !important; flex-direction: column !important; gap: 15px !important;text-align:center!important";
