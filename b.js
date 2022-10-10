@@ -6,7 +6,7 @@ vali = true;"https://hola-440.blogspot.com | https://fileeme.blogspot.com".inclu
 document.body.innerHTML += `<a style='display: block !important;
         opacity: 1 !important;
         visibility: visible !important;
-        overflow: visible !important;margin: 0 auto !important; position: relative !important' class='TraficaLink' href='https://trafica-demo.blogspot.com/' target='_blank'><img style='display: block !important;
+        overflow: visible !important;margin: 0 auto !important; position: relative !important' class='TraficaLink row-x1' href='https://trafica-demo.blogspot.com/' target='_blank'><img style='display: block !important;
         opacity: 1 !important;
         visibility: visible !important;
         overflow: visible !important;
