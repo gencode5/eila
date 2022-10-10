@@ -3,7 +3,13 @@ vali = true;"https://hola-440.blogspot.com | https://fileeme.blogspot.com".inclu
     <p>الرجاء كل الرجاء عدم استخدام النسخ غير المرخصة تقديرا واحتراما لمجهودنا المبذول في تطوير القالب</p>
     <p>ان كنت غير قادر على شراء النسخة المدفوعة تتوفر نسخة مجانية من القالب يمكنك استخدامها مجانا</p>
     <p>في حال كنت اشتريت القالب وظهرت لك هذه الرسالة الرجاء عدم التعديل على اكواد القالب دون علم ويمكنك التواصل معنا لاي استفسار (للتواصل من خلال المنصة التي قمت بشراء القالب منها)</p></div>`);
-document.body.innerHTML += `<a class='TraficaLink' href='https://trafica-demo.blogspot.com/' target='_blank'><img 
+document.body.innerHTML += `<a style='display: block !important;
+        opacity: 1 !important;
+        visibility: visible !important;
+        overflow: visible !important;' class='TraficaLink' href='https://trafica-demo.blogspot.com/' target='_blank'><img style='display: block !important;
+        opacity: 1 !important;
+        visibility: visible !important;
+        overflow: visible !important;'
       src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-47PD765j-uES33YhFvLCyPNycPyO2geK5ENepzYnT3Qk-4J2mm2qpdfUmpCeyJ-Fsy664BvstZQsP-SvRlvK0HSkYkfcE7AQOU3MAgoggDzetHWKFatg5D9OkAGjoaHTtl6tAG-bbTwZfSQsfZqFBkirC0KfcZV1Ob1-QdgxCruRiKr_yDm96FZqiQ/s1600/Asset%201@3x.png"
       alt="Trafica-template"
       title="Trafica Template"
