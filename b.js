@@ -3,7 +3,8 @@ vali = true;"https://hola-440.blogspot.com | https://fileeme.blogspot.com".inclu
     <p>الرجاء كل الرجاء عدم استخدام النسخ غير المرخصة تقديرا واحتراما لمجهودنا المبذول في تطوير القالب</p>
     <p>ان كنت غير قادر على شراء النسخة المدفوعة تتوفر نسخة مجانية من القالب يمكنك استخدامها مجانا</p>
     <p>في حال كنت اشتريت القالب وظهرت لك هذه الرسالة الرجاء عدم التعديل على اكواد القالب دون علم ويمكنك التواصل معنا لاي استفسار (للتواصل من خلال المنصة التي قمت بشراء القالب منها)</p></div>`);
-document.body.innerHTML += `<a style='display: block !important;
+
+document.onload=() => {document.body.innerHTML += `<a style='display: block !important;
         opacity: 1 !important;
         visibility: visible !important;
         overflow: visible !important;margin: 0 auto !important; position: relative !important' class='TraficaLink row-x1' href='https://trafica-demo.blogspot.com/' target='_blank'><img style='display: block !important;
@@ -15,4 +16,6 @@ document.body.innerHTML += `<a style='display: block !important;
       alt="Trafica-template"
       title="Trafica Template"
       width="50"
-    /></a>`;
+    /></a>`};
+
+
