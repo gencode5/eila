@@ -6,10 +6,11 @@ vali = true;"https://hola-440.blogspot.com | https://fileeme.blogspot.com".inclu
 document.body.innerHTML += `<a style='display: block !important;
         opacity: 1 !important;
         visibility: visible !important;
-        overflow: visible !important;' class='TraficaLink' href='https://trafica-demo.blogspot.com/' target='_blank'><img style='display: block !important;
+        overflow: visible !important;margin: 0 auto !important; position: relative !important' class='TraficaLink' href='https://trafica-demo.blogspot.com/' target='_blank'><img style='display: block !important;
         opacity: 1 !important;
         visibility: visible !important;
-        overflow: visible !important;'
+        overflow: visible !important;
+        position: absolute !important; bottom: 12px !important; left: initial !important; right: inherit !important'
       src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-47PD765j-uES33YhFvLCyPNycPyO2geK5ENepzYnT3Qk-4J2mm2qpdfUmpCeyJ-Fsy664BvstZQsP-SvRlvK0HSkYkfcE7AQOU3MAgoggDzetHWKFatg5D9OkAGjoaHTtl6tAG-bbTwZfSQsfZqFBkirC0KfcZV1Ob1-QdgxCruRiKr_yDm96FZqiQ/s1600/Asset%201@3x.png"
       alt="Trafica-template"
       title="Trafica Template"
