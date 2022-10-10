@@ -11,7 +11,7 @@ overflow: visible !important;margin: 0 auto !important; position: relative !impo
 opacity: 1 !important;
 visibility: visible !important;
 overflow: visible !important;
-position: absolute !important; bottom: 12px !important; left: initial !important; right: inherit !important'
+position: absolute !important; bottom: 14px !important; left: initial !important; right: inherit !important'
 src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-47PD765j-uES33YhFvLCyPNycPyO2geK5ENepzYnT3Qk-4J2mm2qpdfUmpCeyJ-Fsy664BvstZQsP-SvRlvK0HSkYkfcE7AQOU3MAgoggDzetHWKFatg5D9OkAGjoaHTtl6tAG-bbTwZfSQsfZqFBkirC0KfcZV1Ob1-QdgxCruRiKr_yDm96FZqiQ/s1600/Asset%201@3x.png"
 alt="Trafica-template"
 title="Trafica Template"
