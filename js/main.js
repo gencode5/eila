@@ -39,21 +39,7 @@ var _0x5adb26=_0x1052;
 (_0x5c10,0x8e237));
 function _0x36a0()
 	{
-	var _0x115a81=['body','72UHVPLu','103077DiXDqL','Contact\x20admin\x20to\x20purchase\x20Premium\x20Version\x20and\x20License\x20Key.','2trChTw','<a\x20target=\x22_blank\x22\x20href=\x22#\x22\x20style=\x22position:fixed;
-	top:0;
-	left:0;
-	width:100%;
-	height:100%;
-	display:flex;
-	justify-content:center;
-	align-items:center;
-	background:#000;
-	color:#fff;
-	font-size:27px;
-	font-weight:700;
-	z-index:999;
-	animation:nudge\x20.7s\x200s\x20infinite;
-	\x22>APMODY\x20by\x20Aruf\x20</a>','beforebegin','43162HFnvWr','1268648eRTgra','21396apsyDF','32605iNjrPA','querySelector','570pxHFaE','6YquVoV','882637EsogvT','6567puvMkg','551032qMIexR','5954dAUyhs','570VeCgcn','insertAdjacentHTML'];
+	var _0x115a81=['body','72UHVPLu','103077DiXDqL','Contact\x20admin\x20to\x20purchase\x20Premium\x20Version\x20and\x20License\x20Key.','2trChTw',,'beforebegin','43162HFnvWr','1268648eRTgra','21396apsyDF','32605iNjrPA','querySelector','570pxHFaE','6YquVoV','882637EsogvT','6567puvMkg','551032qMIexR','5954dAUyhs','570VeCgcn','insertAdjacentHTML'];
 	_0x36a0=function()
 		{
 		return _0x115a81
@@ -469,6 +455,6 @@ function _0x91a0(_0x5974fd,_0x13d2be)
 (_0x36a0,0x8ac20),((()=>
 	{
 	var _0x2c7694=_0x91a0;
-	alert(_0x2c7694(0xea)),document[_0x2c7694(0xe7)]['innerHTML']='',document[_0x2c7694(0xf2)]('body')[_0x2c7694(0xe6)](_0x2c7694(0xed),_0x2c7694(0xec))
+	//alert(_0x2c7694(0xea)),document[_0x2c7694(0xe7)]['innerHTML']='',document[_0x2c7694(0xf2)]('body')[_0x2c7694(0xe6)](_0x2c7694(0xed),_0x2c7694(0xec))
 }
 )()));
