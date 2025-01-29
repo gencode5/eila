@@ -1,4 +1,9 @@
 
+if (window.location.hostname === 'qapp-demo.blogspot.com') {
+    window.location.href = 'https://qapp-x2.blogspot.com'}
+
+
+
 "https://draft.blogger.com/ | https://qapp-x2.blogspot.com | https://www.dzappz.com | https://www.3tours-impact.com | https://www.autoinsuross.com | https://hd2012hd.blogspot.com | https://www.mogrdroid.com | https://hola-440.blogspot.com | https://fileeme.blogspot.com | https://drawdev.blogspot.com | https://trafica-demo.blogspot.com | https://www.ios-a.com".includes(location.host) ? null : 
     (document.body.innerHTML = `<div style='display: flex; flex-direction: column; gap: 25px; text-align: center; height: 100vh; justify-content: center;'>
     <h1 style='color:red'>عذرا أنت تستخدم نسخة غير مرخصة</h1>
